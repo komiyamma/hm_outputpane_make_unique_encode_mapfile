@@ -1,0 +1,2 @@
+# hm_outputpane_make_unique_encode_mapfile
+秀丸の特殊なUnicode変換のマッピング作成ツール
