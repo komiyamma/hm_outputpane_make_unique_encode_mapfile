@@ -1,0 +1,5 @@
+﻿  HmMakeUniqueUnicodeMapFile.cpp
+     ライブラリ G:\repogitory\hidemaru-net\win-hidemaru-app\hm_makeuniqueunicodemapfile\src\x64\Debug\HmMakeUniqueUnicodeMapFile.lib とオブジェクト G:\repogitory\hidemaru-net\win-hidemaru-app\hm_makeuniqueunicodemapfile\src\x64\Debug\HmMakeUniqueUnicodeMapFile.exp を作成中
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 未解決の外部シンボル main が関数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) で参照されました
+G:\repogitory\hidemaru-net\win-hidemaru-app\hm_makeuniqueunicodemapfile\src\x64\Debug\HmMakeUniqueUnicodeMapFile.exe : fatal error LNK1120: 1 件の未解決の外部参照
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(997,5): error MSB6006: "link.exe" はコード 1120 を伴って終了しました。
